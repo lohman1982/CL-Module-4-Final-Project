@@ -1,0 +1,16 @@
+name: User Story
+about: A user story for the product catalog
+title: "[Story] "
+labels: story
+assignees: ''
+---
+
+**As a** [user/persona]  
+**I need** [feature or goal]  
+**So that** [benefit or outcome]
+
+### Acceptance Criteria (optional)
+
+**Given** [context]  
+**When** [event]  
+**Then** [expected outcome]
